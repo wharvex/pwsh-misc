@@ -1,0 +1,5 @@
+Modules/
+Scripts/InstalledScriptInfos
+Scripts/ConvertDOCXtoPDF.ps1
+Scripts/ConvertPPTXtoPDF.ps1
+profile.ps1
